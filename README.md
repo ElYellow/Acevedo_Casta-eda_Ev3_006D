@@ -1,1 +1,2 @@
-# Acevedo_Casta-eda_Ev3_006D
+Hector Acevedo Diego Castañeda
+DHComputers, Aplicacion de guias de Pc.
