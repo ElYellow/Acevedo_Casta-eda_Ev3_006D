@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ionic-login-33a75": {
+      "hosting": {
+        "app": [
+          "ionic-login-33a75"
+        ]
+      }
+    }
+  }
+}
